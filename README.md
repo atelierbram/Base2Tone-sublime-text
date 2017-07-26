@@ -1,5 +1,5 @@
 # Base2Tone Sublime Text
-Colorschemes for Sublime Text based on [DuoTone themes](http://simurai.com/projects/2016/01/01/duotone-themes/) by [Simurai](http://simurai.com/)
+Colorschemes for Sublime Text (and Textmate) based on [DuoTone themes](http://simurai.com/projects/2016/01/01/duotone-themes/) by [Simurai](http://simurai.com/)
 
 ## Installation
 
