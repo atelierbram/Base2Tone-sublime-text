@@ -1,7 +1,7 @@
 # Base2Tone Sublime Text
-Colorschemes for Sublime Text (and Textmate) based on [DuoTone themes](http://simurai.com/projects/2016/01/01/duotone-themes/) by [Simurai](http://simurai.com/)
+Colorschemes for Sublime Text, Visual Studio Code (and Textmate) based on [DuoTone themes](http://simurai.com/projects/2016/01/01/duotone-themes/) by [Simurai](http://simurai.com/)
 
-## Installation
+## Installation on Sublime Text
 
 ### Use Package Control
 The same output files are [on package control, be it under a different name: DuoTones Colorschemes](https://packagecontrol.io/packages/Duotones%20Colorschemes)
