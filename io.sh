@@ -16,6 +16,9 @@ overwrite_to_file()
   base16-builder --scheme "db/schemes/base2tone-heath.yml" --template "db/templates/dark.ejs" > "base2tone-heath.dark.tmTheme"
   base16-builder --scheme "db/schemes/base2tone-drawbridge.yml" --template "db/templates/dark.ejs" > "base2tone-drawbridge.dark.tmTheme"
   base16-builder --scheme "db/schemes/base2tone-meadow.yml" --template "db/templates/dark.ejs" > "base2tone-meadow.dark.tmTheme"
+  base16-builder --scheme "db/schemes/base2tone-garden.yml" --template "db/templates/dark.ejs" > "base2tone-garden.dark.tmTheme"
+  base16-builder --scheme "db/schemes/base2tone-lavender.yml" --template "db/templates/dark.ejs" > "base2tone-lavender.dark.tmTheme"
+  base16-builder --scheme "db/schemes/base2tone-suburb.yml" --template "db/templates/dark.ejs" > "base2tone-suburb.dark.tmTheme"
   base16-builder --scheme "db/schemes/base2tone-evening.yml" --template "db/templates/light-alt.ejs" > "base2tone-evening.light.tmTheme"
   base16-builder --scheme "db/schemes/base2tone-morning.yml" --template "db/templates/light.ejs" > "base2tone-morning.light.tmTheme"
   base16-builder --scheme "db/schemes/base2tone-space.yml" --template "db/templates/light-alt.ejs" > "base2tone-space.light.tmTheme"
@@ -29,6 +32,9 @@ overwrite_to_file()
   base16-builder --scheme "db/schemes/base2tone-heath.yml" --template "db/templates/light.ejs" > "base2tone-heath.light.tmTheme"
   base16-builder --scheme "db/schemes/base2tone-drawbridge.yml" --template "db/templates/light-alt.ejs" > "base2tone-drawbridge.light.tmTheme"
   base16-builder --scheme "db/schemes/base2tone-meadow.yml" --template "db/templates/light-alt.ejs" > "base2tone-meadow.light.tmTheme"
+  base16-builder --scheme "db/schemes/base2tone-garden.yml" --template "db/templates/light-alt.ejs" > "base2tone-garden.light.tmTheme"
+  base16-builder --scheme "db/schemes/base2tone-lavender.yml" --template "db/templates/light-alt.ejs" > "base2tone-lavender.light.tmTheme"
+  base16-builder --scheme "db/schemes/base2tone-suburb.yml" --template "db/templates/light-alt.ejs" > "base2tone-suburb.light.tmTheme"
  }
 
 # execute it
