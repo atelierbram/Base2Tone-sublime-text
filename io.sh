@@ -19,6 +19,10 @@ overwrite_to_file()
   base16-builder --scheme "db/schemes/base2tone-garden.yml" --template "db/templates/dark.ejs" > "base2tone-garden.dark.tmTheme"
   base16-builder --scheme "db/schemes/base2tone-lavender.yml" --template "db/templates/dark.ejs" > "base2tone-lavender.dark.tmTheme"
   base16-builder --scheme "db/schemes/base2tone-suburb.yml" --template "db/templates/dark.ejs" > "base2tone-suburb.dark.tmTheme"
+  base16-builder --scheme "db/schemes/base2tone-mall.yml" --template "db/templates/dark.ejs" > "base2tone-mall.dark.tmTheme"
+  base16-builder --scheme "db/schemes/base2tone-porch.yml" --template "db/templates/dark.ejs" > "base2tone-porch.dark.tmTheme"
+  base16-builder --scheme "db/schemes/base2tone-field.yml" --template "db/templates/dark.ejs" > "base2tone-field.dark.tmTheme"
+  base16-builder --scheme "db/schemes/base2tone-motel.yml" --template "db/templates/dark.ejs" > "base2tone-motel.dark.tmTheme"
   base16-builder --scheme "db/schemes/base2tone-evening.yml" --template "db/templates/light-alt.ejs" > "base2tone-evening.light.tmTheme"
   base16-builder --scheme "db/schemes/base2tone-morning.yml" --template "db/templates/light.ejs" > "base2tone-morning.light.tmTheme"
   base16-builder --scheme "db/schemes/base2tone-space.yml" --template "db/templates/light-alt.ejs" > "base2tone-space.light.tmTheme"
@@ -35,6 +39,10 @@ overwrite_to_file()
   base16-builder --scheme "db/schemes/base2tone-garden.yml" --template "db/templates/light-alt.ejs" > "base2tone-garden.light.tmTheme"
   base16-builder --scheme "db/schemes/base2tone-lavender.yml" --template "db/templates/light-alt.ejs" > "base2tone-lavender.light.tmTheme"
   base16-builder --scheme "db/schemes/base2tone-suburb.yml" --template "db/templates/light-alt.ejs" > "base2tone-suburb.light.tmTheme"
+  base16-builder --scheme "db/schemes/base2tone-mall.yml" --template "db/templates/light-alt.ejs" > "base2tone-mall.light.tmTheme"
+  base16-builder --scheme "db/schemes/base2tone-porch.yml" --template "db/templates/light-alt.ejs" > "base2tone-porch.light.tmTheme"
+  base16-builder --scheme "db/schemes/base2tone-field.yml" --template "db/templates/light-alt.ejs" > "base2tone-field.light.tmTheme"
+  base16-builder --scheme "db/schemes/base2tone-motel.yml" --template "db/templates/light-alt.ejs" > "base2tone-motel.light.tmTheme"
  }
 
 # execute it
