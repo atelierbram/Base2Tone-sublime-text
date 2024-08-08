@@ -1,5 +1,5 @@
 # Base2Tone Sublime Text
-Colorschemes for Sublime Text, Visual Studio Code (and Textmate) based on [DuoTone themes](http://simurai.com/projects/2016/01/01/duotone-themes/) by [Simurai](http://simurai.com/)
+Colorschemes for Sublime Text, Visual Studio Code (and Textmate) based on [DuoTone themes](https://simurai.com/projects/2016/01/01/duotone-themes/) by [Simurai](https://simurai.com/)
 
 ## Installation on Sublime Text
 
@@ -48,31 +48,20 @@ In your `Preferences.sublime-settings` file; open `Preferences` → `Settings - 
 	"color_scheme": "Packages/Base2Tone-sublime-text/Base2Tone-sea.dark.tmTheme",
 ```
 
-
-## Screenshots
-![screenshot of javaScript file syntax-highlighted with DuoTone Dark colorscheme](http://atelierbram.github.io/syntax-highlighting/assets/img/duotones-dark_sublime_960x640.png)
-Screenshot of javaScript file, syntax-highlighted with DuoTone Dark colorscheme.
-
-- [darkSea](http://atelierbram.github.io/syntax-highlighting/assets/img/duotones-darkSea_sublime_960x640.png)
-- [darkSpace](http://atelierbram.github.io/syntax-highlighting/assets/img/duotones-darkSpace_sublime_960x640.png)
-- [darkEarth](http://atelierbram.github.io/syntax-highlighting/assets/img/duotones-darkEarth_sublime_960x640.png)
-- [darkForest](http://atelierbram.github.io/syntax-highlighting/assets/img/duotones-darkForest_sublime_960x640.png)
-- [darkPool](http://atelierbram.github.io/syntax-highlighting/assets/img/duotones-darkPool_sublime_960x640.png)
-
-## Demo
-- [DuoTones on Github](http://atelierbram.github.io/syntax-highlighting/duotones/)
-- [Demo for Prism](http://atelierbram.github.io/syntax-highlighting/duotones/demo/dark/)
+## Base2Tone
+- [Base2Tone on Github](https://github.com/atelierbram/Base2Tone)
+- [Base2Tone demo site](https://base2t.one/)
 
 ## Credits
-- Credits to [Simurai](http://simurai.com/) whose [DuoTone themes](http://simurai.com/projects/2016/01/01/duotone-themes) for Atom were a model for these colorschemes
-- Credits to [Chris Kempson](http://chriskempson.com/), whose [Base16 Builder](https://github.com/chriskempson/base16-builder) was used for conversion to the different output formats. It’s a remarkable building tool, and I would also recommend trying out the colorschemes he made with them.
+- Credits to [Simurai](https://simurai.com/) whose [DuoTone themes](https://simurai.com/projects/2016/01/01/duotone-themes) for Atom were a model for these colorschemes
+- Credits to [Chris Kempson](https://chriskempson.com/), whose [Base16 Builder](https://github.com/chriskempson/base16-builder) was used for conversion to the different output formats. It’s a remarkable building tool, and I would also recommend trying out the colorschemes he made with them.
 
 ### Resources
-- [Orginal Colorscheme for Atom on simurai.com](http://simurai.com/projects/2016/01/01/duotone-themes/)
+- [Orginal Colorscheme for Atom on simurai.com](https://simurai.com/projects/2016/01/01/duotone-themes/)
 - [Orginal Colorscheme for Atom on Github](https://github.com/simurai/duotone-dark-syntax/)
-- [commands for Sublime](http://www.sublimetext.com/docs/commands)
+- [commands for Sublime](https://www.sublimetext.com/docs/commands)
 - [info on setting for Sublime](https://www.sublimetext.com/docs/3/settings.html)
-- [On Editing Colorschemes for Sublime Text](http://atelierbram.github.io/blog/colorschemes-sublime/)
+- [On Editing Colorschemes for Sublime Text](https://atelierbram.github.io/blog/colorschemes-sublime/)
 
 ### Recommended
 - [plugin Block Cursor Everywhere](https://github.com/karlhorky/BlockCursorEverywhere)
@@ -80,4 +69,4 @@ Screenshot of javaScript file, syntax-highlighted with DuoTone Dark colorscheme.
 - [Preferences Settings by Wes Bos](https://gist.github.com/wesbos/a3b12cfda064a906ac04)
 
 ## License
-Released under [MIT Licence](http://atelierbram.mit-license.org)
+Released under [MIT Licence](https://atelierbram.mit-license.org)
