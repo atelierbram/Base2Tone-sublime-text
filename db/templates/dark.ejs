@@ -3,7 +3,7 @@
 <plist version="1.0">
   <dict>
     <key>author</key>
-    <string>adapted from: Simurai (https://github.com/simurai/duotone-dark-syntax/)</string>
+    <string>Atelierbram - adapted from: Simurai (https://github.com/simurai/duotone-dark-syntax/)</string>
     <key>name</key>
     <string><%- scheme %> Dark</string>
     <key>semanticClass</key>
@@ -429,6 +429,138 @@
       </dict>
       <dict>
         <key>name</key>
+        <string>Java Source</string>
+        <key>scope</key>
+        <string>source.java meta.class.java meta.method.java</string>
+        <key>settings</key>
+        <dict>
+          <key>foreground</key>
+          <string>#<%- base["C7"]["hex"] %></string>
+          </dict>
+        </dict>
+      <dict>
+        <key>name</key>
+        <string>Java Class Body</string>
+        <key>scope</key>
+        <string>source.java meta.class.java meta.class.body.java</string>
+        <key>settings</key>
+        <dict>
+          <key>foreground</key>
+          <string>#<%- base["C7"]["hex"] %></string>
+          </dict>
+        </dict>
+      <dict>
+        <key>name</key>
+        <string>Javascript: Function Arguments</string>
+        <key>scope</key>
+        <string>source.js meta.function.js variable.parameter.function.js</string>
+        <key>settings</key>
+        <dict>
+          <key>foreground</key>
+          <string>#<%- base["D3"]["hex"] %></string>
+          </dict>
+        </dict>
+      <dict>
+        <key>name</key>
+        <string>Javascript: New Variables</string>
+        <key>scope</key>
+        <string>source.js variable.other.readwrite.js</string>
+        <key>settings</key>
+        <dict>
+          <key>foreground</key>
+          <string>#<%- base["D3"]["hex"] %></string>
+          </dict>
+        </dict>
+      <dict>
+        <key>name</key>
+        <string>Javascript: Variables</string>
+        <key>scope</key>
+        <string>source.js variable.other.object.js</string>
+        <key>settings</key>
+        <dict>
+          <key>foreground</key>
+          <string>#<%- base["C7"]["hex"] %></string>
+          </dict>
+        </dict>
+      <dict>
+        <key>name</key>
+        <string>Javascript: Variables in Function Calls</string>
+        <key>scope</key>
+        <string>source.js meta.function-call.method.js variable.other.readwrite.js</string>
+        <key>settings</key>
+        <dict>
+          <key>foreground</key>
+          <string>#<%- base["D3"]["hex"] %></string>
+          </dict>
+        </dict>
+      <dict>
+        <key>name</key>
+        <string>Javascript: New Block Variables</string>
+        <key>scope</key>
+        <string>source.js meta.block.js variable.other.readwrite.js</string>
+        <key>settings</key>
+        <dict>
+          <key>foreground</key>
+          <string>#<%- base["D3"]["hex"] %></string>
+          </dict>
+        </dict>
+      <dict>
+        <key>name</key>
+        <string>Javascript: Block Variables</string>
+        <key>scope</key>
+        <string>source.js meta.block.js variable.other.object.js</string>
+        <key>settings</key>
+        <dict>
+          <key>foreground</key>
+          <string>#<%- base["C7"]["hex"] %></string>
+          </dict>
+        </dict>
+      <dict>
+        <key>name</key>
+        <string>Javascript: Block Variables in Function Calls</string>
+        <key>scope</key>
+        <string>source.js meta.block.js meta.function-call.method.js variable.other.readwrite.js</string>
+        <key>settings</key>
+        <dict>
+          <key>foreground</key>
+          <string>#<%- base["C7"]["hex"] %></string>
+          </dict>
+        </dict>
+      <dict>
+        <key>name</key>
+        <string>Javascript: Function Calls</string>
+        <key>scope</key>
+        <string>source.js meta.function-call.method.js variable.function.js</string>
+        <key>settings</key>
+        <dict>
+          <key>foreground</key>
+          <string>#<%- base["C7"]["hex"] %></string>
+          </dict>
+        </dict>
+      <dict>
+        <key>name</key>
+        <string>Javascript: Properties</string>
+        <key>scope</key>
+        <string>source.js meta.property.object.js entity.name.function.js</string>
+        <key>settings</key>
+        <dict>
+          <key>foreground</key>
+          <string>#<%- base["C7"]["hex"] %></string>
+          </dict>
+        </dict>
+      <dict>
+        <key>name</key>
+        <string>Javascript: Prototypes</string>
+        <key>scope</key>
+        <string>source.js support.constant.prototype.js</string>
+        <key>settings</key>
+        <dict>
+          <key>foreground</key>
+          <string>#<%- base["C7"]["hex"] %></string>
+          </dict>
+        </dict>
+      <dict>
+        <key>name</key>
         <string>Separator</string>
         <key>scope</key>
         <string>meta.separator</string>
@@ -438,8 +570,8 @@
           <string>#<%- base["A2"]["hex"] %></string>
           <key>foreground</key>
           <string>#<%- base["B3"]["hex"] %></string>
+          </dict>
         </dict>
-      </dict>
       <dict>
         <key>name</key>
         <string>Inserted</string>
@@ -449,8 +581,8 @@
         <dict>
           <key>foreground</key>
           <string>#<%- base["C0"]["hex"] %></string>
+          </dict>
         </dict>
-      </dict>
       <dict>
         <key>name</key>
         <string>Deleted</string>
@@ -460,8 +592,8 @@
         <dict>
           <key>foreground</key>
           <string>#<%- base["B0"]["hex"] %></string>
+          </dict>
         </dict>
-      </dict>
       <dict>
         <key>name</key>
         <string>Changed</string>
@@ -471,8 +603,8 @@
         <dict>
           <key>foreground</key>
           <string>#<%- base["B2"]["hex"] %></string>
+          </dict>
         </dict>
-      </dict>
       <dict>
         <key>name</key>
         <string>Colors</string>
@@ -482,8 +614,8 @@
         <dict>
           <key>foreground</key>
           <string>#<%- base["D7"]["hex"] %></string>
+          </dict>
         </dict>
-      </dict>
       <dict>
         <key>name</key>
         <string>Regular Expressions</string>
@@ -493,8 +625,8 @@
         <dict>
           <key>foreground</key>
           <string>#<%- base["D7"]["hex"] %></string>
+          </dict>
         </dict>
-      </dict>
       <dict>
         <key>name</key>
         <string>Escape Characters</string>
@@ -504,8 +636,8 @@
         <dict>
           <key>foreground</key>
           <string>#<%- base["D7"]["hex"] %></string>
+          </dict>
         </dict>
-      </dict>
       <dict>
         <key>name</key>
         <string>Embedded</string>
@@ -515,8 +647,8 @@
         <dict>
           <key>foreground</key>
           <string>#<%- base["B1"]["hex"] %></string>
+          </dict>
         </dict>
-      </dict>
       <dict>
         <key>name</key>
         <string>Illegal</string>
@@ -528,8 +660,8 @@
           <string>#<%- base["B0"]["hex"] %></string>
           <key>foreground</key>
           <string>#<%- base["B7"]["hex"] %></string>
+          </dict>
         </dict>
-      </dict>
       <dict>
         <key>name</key>
         <string>Broken</string>
@@ -541,8 +673,8 @@
           <string>#<%- base["D2"]["hex"] %></string>
           <key>foreground</key>
           <string>#<%- base["A0"]["hex"] %></string>
+          </dict>
         </dict>
-      </dict>
       <dict>
         <key>name</key>
         <string>Deprecated</string>
@@ -554,8 +686,8 @@
           <string>#<%- base["B1"]["hex"] %></string>
           <key>foreground</key>
           <string>#<%- base["B7"]["hex"] %></string>
+          </dict>
         </dict>
-      </dict>
       <dict>
         <key>name</key>
         <string>Unimplemented</string>
@@ -567,8 +699,8 @@
           <string>#<%- base["A3"]["hex"] %></string>
           <key>foreground</key>
           <string>#<%- base["B7"]["hex"] %></string>
+          </dict>
         </dict>
-      </dict>
       <dict>
         <key>name</key>
         <string>Block Cursor</string>
@@ -580,10 +712,10 @@
           <string>#<%- base["A0"]["hex"] %></string>
           <key>background</key>
           <string>#<%- base["D2"]["hex"] %></string>
+          </dict>
         </dict>
-      </dict>
-    </array>
+      </array>
     <key>uuid</key>
     <string>79c2d069-ec9d-4af7-9440-91f644cc1bee</string>
-  </dict>
-</plist>
+    </dict>
+  </plist>

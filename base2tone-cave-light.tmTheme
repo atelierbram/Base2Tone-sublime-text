@@ -5,23 +5,23 @@
     <key>author</key>
     <string>Atelierbram - adapted from: Simurai (https://github.com/simurai/duotone-dark-syntax/)</string>
     <key>name</key>
-    <string><%- scheme %> Dark</string>
+    <string>Base2Tone-Cave Dark</string>
     <key>semanticClass</key>
-    <string><%- schemeSlug %></string>
+    <string>base-2-tone-cave</string>
     <key>colorSpaceName</key>
     <string>sRGB</string>
     <key>gutterSettings</key>
     <dict>
       <key>background</key>
-      <string>#<%- base["C7"]["hex"] %></string>
+      <string>#fbfaf9</string>
       <key>divider</key>
-      <string>#<%- base["C7"]["hex"] %></string>
+      <string>#fbfaf9</string>
       <key>foreground</key>
-      <string>#<%- base["C6"]["hex"] %></string>
+      <string>#eae7e1</string>
       <key>selectionBackground</key>
-      <string>#<%- base["C7"]["hex"] %></string>
+      <string>#fbfaf9</string>
       <key>selectionForeground</key>
-      <string>#<%- base["C6"]["hex"] %></string>
+      <string>#eae7e1</string>
     </dict>
     <key>settings</key>
     <array>
@@ -29,33 +29,33 @@
         <key>settings</key>
         <dict>
           <key>background</key>
-          <string>#<%- base["C7"]["hex"] %></string>
+          <string>#fbfaf9</string>
           <key>caret</key>
-          <string>#<%- base["D2"]["hex"] %></string>
+          <string>#b88914</string>
           <key>foreground</key>
-          <string>#<%- base["C4"]["hex"] %></string>
+          <string>#c1beb9</string>
           <key>invisibles</key>
-          <string>#<%- base["C7"]["hex"] %></string>
+          <string>#fbfaf9</string>
           <key>lineHighlight</key>
-          <string>#<%- base["C6"]["hex"] %></string>
+          <string>#eae7e1</string>
           <key>selection</key>
-          <string>#<%- base["C5"]["hex"] %></string>
+          <string>#d6d3cc</string>
           <key>findHighlight</key>
-          <string>#<%- base["B5"]["hex"] %></string>
+          <string>#e28dab</string>
           <key>findHighlightForeground</key>
-          <string>#<%- base["C7"]["hex"] %></string>
+          <string>#fbfaf9</string>
           <key>selectionBorder</key>
-          <string>#<%- base["B4"]["hex"] %></string>
+          <string>#d27998</string>
           <key>bracketsForeground</key>
-          <string>#<%- base["D0"]["hex"] %></string>
+          <string>#996e00</string>
           <key>bracketContentsForeground</key>
-          <string>#<%- base["C7"]["hex"] %></string>
+          <string>#fbfaf9</string>
           <key>guide</key>
-          <string>#<%- base["C7"]["hex"] %></string>
+          <string>#fbfaf9</string>
           <key>activeGuide</key>
-          <string>#<%- base["C4"]["hex"] %></string>
+          <string>#c1beb9</string>
           <key>stackGuide</key>
-          <string>#<%- base["B4"]["hex"] %></string>
+          <string>#d27998</string>
         </dict>
       </dict>
       <dict>
@@ -66,7 +66,7 @@
         <key>settings</key>
         <dict>
           <key>foreground</key>
-          <string>#<%- base["D4"]["hex"] %></string>
+          <string>#cca133</string>
         </dict>
       </dict>
       <dict>
@@ -77,7 +77,7 @@
         <key>settings</key>
         <dict>
           <key>foreground</key>
-          <string>#<%- base["C4"]["hex"] %></string>
+          <string>#c1beb9</string>
         </dict>
       </dict>
       <dict>
@@ -88,7 +88,7 @@
         <key>settings</key>
         <dict>
           <key>foreground</key>
-          <string>#<%- base["C0"]["hex"] %></string>
+          <string>#787673</string>
         </dict>
       </dict>
       <dict>
@@ -99,7 +99,7 @@
         <key>settings</key>
         <dict>
           <key>foreground</key>
-          <string>#<%- base["B3"]["hex"] %></string>
+          <string>#9c818b</string>
         </dict>
       </dict>
       <dict>
@@ -110,7 +110,7 @@
         <key>settings</key>
         <dict>
           <key>foreground</key>
-          <string>#<%- base["D4"]["hex"] %></string>
+          <string>#cca133</string>
         </dict>
       </dict>
       <dict>
@@ -121,7 +121,7 @@
         <key>settings</key>
         <dict>
           <key>foreground</key>
-          <string>#<%- base["D2"]["hex"] %></string>
+          <string>#b88914</string>
         </dict>
       </dict>
       <dict>
@@ -132,7 +132,7 @@
         <key>settings</key>
         <dict>
           <key>foreground</key>
-          <string>#<%- base["B2"]["hex"] %></string>
+          <string>#936c7a</string>
         </dict>
       </dict>
       <dict>
@@ -143,7 +143,7 @@
         <key>settings</key>
         <dict>
           <key>foreground</key>
-          <string>#<%- base["D2"]["hex"] %></string>
+          <string>#b88914</string>
         </dict>
       </dict>
       <dict>
@@ -154,7 +154,7 @@
         <key>settings</key>
         <dict>
           <key>foreground</key>
-          <string>#<%- base["D0"]["hex"] %></string>
+          <string>#996e00</string>
         </dict>
       </dict>
       <dict>
@@ -165,7 +165,7 @@
         <key>settings</key>
         <dict>
           <key>foreground</key>
-          <string>#<%- base["D0"]["hex"] %></string>
+          <string>#996e00</string>
         </dict>
       </dict>
       <dict>
@@ -176,7 +176,7 @@
         <key>settings</key>
         <dict>
           <key>foreground</key>
-          <string>#<%- base["D0"]["hex"] %></string>
+          <string>#996e00</string>
         </dict>
       </dict>
       <dict>
@@ -187,7 +187,7 @@
         <key>settings</key>
         <dict>
           <key>foreground</key>
-          <string>#<%- base["B4"]["hex"] %></string>
+          <string>#d27998</string>
         </dict>
       </dict>
       <dict>
@@ -198,7 +198,7 @@
         <key>settings</key>
         <dict>
           <key>foreground</key>
-          <string>#<%- base["B2"]["hex"] %></string>
+          <string>#936c7a</string>
         </dict>
       </dict>
       <dict>
@@ -209,7 +209,7 @@
         <key>settings</key>
         <dict>
           <key>foreground</key>
-          <string>#<%- base["D2"]["hex"] %></string>
+          <string>#b88914</string>
         </dict>
       </dict>
       <dict>
@@ -220,7 +220,7 @@
         <key>settings</key>
         <dict>
           <key>foreground</key>
-          <string>#<%- base["B5"]["hex"] %></string>
+          <string>#e28dab</string>
         </dict>
       </dict>
       <dict>
@@ -231,7 +231,7 @@
         <key>settings</key>
         <dict>
           <key>foreground</key>
-          <string>#<%- base["B0"]["hex"] %></string>
+          <string>#ad1f51</string>
         </dict>
       </dict>
       <dict>
@@ -242,7 +242,7 @@
         <key>settings</key>
         <dict>
           <key>foreground</key>
-          <string>#<%- base["D2"]["hex"] %></string>
+          <string>#b88914</string>
         </dict>
       </dict>
       <dict>
@@ -253,7 +253,7 @@
         <key>settings</key>
         <dict>
           <key>foreground</key>
-          <string>#<%- base["B0"]["hex"] %></string>
+          <string>#ad1f51</string>
         </dict>
       </dict>
       <dict>
@@ -264,7 +264,7 @@
         <key>settings</key>
         <dict>
           <key>foreground</key>
-          <string>#<%- base["D2"]["hex"] %></string>
+          <string>#b88914</string>
         </dict>
       </dict>
       <dict>
@@ -275,7 +275,7 @@
         <key>settings</key>
         <dict>
           <key>foreground</key>
-          <string>#<%- base["D0"]["hex"] %></string>
+          <string>#996e00</string>
         </dict>
       </dict>
       <dict>
@@ -286,7 +286,7 @@
         <key>settings</key>
         <dict>
           <key>foreground</key>
-          <string>#<%- base["D2"]["hex"] %></string>
+          <string>#b88914</string>
         </dict>
       </dict>
       <dict>
@@ -297,7 +297,7 @@
         <key>settings</key>
         <dict>
           <key>foreground</key>
-          <string>#<%- base["D5"]["hex"] %></string>
+          <string>#ddaf3c</string>
         </dict>
       </dict>
       <dict>
@@ -308,7 +308,7 @@
         <key>settings</key>
         <dict>
           <key>foreground</key>
-          <string>#<%- base["D0"]["hex"] %></string>
+          <string>#996e00</string>
         </dict>
       </dict>
       <dict>
@@ -319,7 +319,7 @@
         <key>settings</key>
         <dict>
           <key>foreground</key>
-          <string>#<%- base["D2"]["hex"] %></string>
+          <string>#b88914</string>
         </dict>
       </dict>
       <dict>
@@ -332,7 +332,7 @@
           <key>fontStyle</key>
           <string></string>
           <key>foreground</key>
-          <string>#<%- base["D0"]["hex"] %></string>
+          <string>#996e00</string>
         </dict>
       </dict>
       <dict>
@@ -343,7 +343,7 @@
         <key>settings</key>
         <dict>
           <key>foreground</key>
-          <string>#<%- base["D2"]["hex"] %></string>
+          <string>#b88914</string>
         </dict>
       </dict>
       <dict>
@@ -356,7 +356,7 @@
           <key>fontStyle</key>
           <string>bold</string>
           <key>foreground</key>
-          <string>#<%- base["D4"]["hex"] %></string>
+          <string>#cca133</string>
         </dict>
       </dict>
       <dict>
@@ -369,7 +369,7 @@
           <key>fontStyle</key>
           <string>italic</string>
           <key>foreground</key>
-          <string>#<%- base["B2"]["hex"] %></string>
+          <string>#936c7a</string>
         </dict>
       </dict>
       <dict>
@@ -380,7 +380,7 @@
         <key>settings</key>
         <dict>
           <key>foreground</key>
-          <string>#<%- base["C0"]["hex"] %></string>
+          <string>#787673</string>
         </dict>
       </dict>
       <dict>
@@ -391,7 +391,7 @@
         <key>settings</key>
         <dict>
           <key>foreground</key>
-          <string>#<%- base["B0"]["hex"] %></string>
+          <string>#ad1f51</string>
         </dict>
       </dict>
       <dict>
@@ -402,7 +402,7 @@
         <key>settings</key>
         <dict>
           <key>foreground</key>
-          <string>#<%- base["D2"]["hex"] %></string>
+          <string>#b88914</string>
         </dict>
       </dict>
       <dict>
@@ -413,7 +413,7 @@
         <key>settings</key>
         <dict>
           <key>foreground</key>
-          <string>#<%- base["B0"]["hex"] %></string>
+          <string>#ad1f51</string>
         </dict>
       </dict>
       <dict>
@@ -424,7 +424,7 @@
         <key>settings</key>
         <dict>
           <key>foreground</key>
-          <string>#<%- base["D2"]["hex"] %></string>
+          <string>#b88914</string>
         </dict>
         </dict>
       <dict>
@@ -435,7 +435,7 @@
         <key>settings</key>
         <dict>
           <key>foreground</key>
-          <string>#<%- base["C0"]["hex"] %></string>
+          <string>#787673</string>
           </dict>
         </dict>
       <dict>
@@ -446,7 +446,7 @@
         <key>settings</key>
         <dict>
           <key>foreground</key>
-          <string>#<%- base["C0"]["hex"] %></string>
+          <string>#787673</string>
           </dict>
         </dict>
       <dict>
@@ -457,7 +457,7 @@
         <key>settings</key>
         <dict>
           <key>foreground</key>
-          <string>#<%- base["D4"]["hex"] %></string>
+          <string>#cca133</string>
           </dict>
         </dict>
       <dict>
@@ -468,7 +468,7 @@
         <key>settings</key>
         <dict>
           <key>foreground</key>
-          <string>#<%- base["D4"]["hex"] %></string>
+          <string>#cca133</string>
           </dict>
         </dict>
       <dict>
@@ -479,7 +479,7 @@
         <key>settings</key>
         <dict>
           <key>foreground</key>
-          <string>#<%- base["C0"]["hex"] %></string>
+          <string>#787673</string>
           </dict>
         </dict>
       <dict>
@@ -490,7 +490,7 @@
         <key>settings</key>
         <dict>
           <key>foreground</key>
-          <string>#<%- base["D4"]["hex"] %></string>
+          <string>#cca133</string>
           </dict>
         </dict>
       <dict>
@@ -501,7 +501,7 @@
         <key>settings</key>
         <dict>
           <key>foreground</key>
-          <string>#<%- base["D4"]["hex"] %></string>
+          <string>#cca133</string>
           </dict>
         </dict>
       <dict>
@@ -512,7 +512,7 @@
         <key>settings</key>
         <dict>
           <key>foreground</key>
-          <string>#<%- base["C0"]["hex"] %></string>
+          <string>#787673</string>
           </dict>
         </dict>
       <dict>
@@ -523,7 +523,7 @@
         <key>settings</key>
         <dict>
           <key>foreground</key>
-          <string>#<%- base["C0"]["hex"] %></string>
+          <string>#787673</string>
           </dict>
         </dict>
       <dict>
@@ -534,7 +534,7 @@
         <key>settings</key>
         <dict>
           <key>foreground</key>
-          <string>#<%- base["C0"]["hex"] %></string>
+          <string>#787673</string>
           </dict>
         </dict>
       <dict>
@@ -545,7 +545,7 @@
         <key>settings</key>
         <dict>
           <key>foreground</key>
-          <string>#<%- base["C0"]["hex"] %></string>
+          <string>#787673</string>
           </dict>
         </dict>
       <dict>
@@ -556,7 +556,7 @@
         <key>settings</key>
         <dict>
           <key>foreground</key>
-          <string>#<%- base["C0"]["hex"] %></string>
+          <string>#787673</string>
           </dict>
         </dict>
       <dict>
@@ -567,9 +567,9 @@
         <key>settings</key>
         <dict>
           <key>background</key>
-          <string>#<%- base["A7"]["hex"] %></string>
+          <string>#b3adaf</string>
           <key>foreground</key>
-          <string>#<%- base["B3"]["hex"] %></string>
+          <string>#9c818b</string>
           </dict>
         </dict>
       <dict>
@@ -580,7 +580,7 @@
         <key>settings</key>
         <dict>
           <key>foreground</key>
-          <string>#<%- base["C0"]["hex"] %></string>
+          <string>#787673</string>
           </dict>
         </dict>
       <dict>
@@ -591,7 +591,7 @@
         <key>settings</key>
         <dict>
           <key>foreground</key>
-          <string>#<%- base["B0"]["hex"] %></string>
+          <string>#ad1f51</string>
           </dict>
         </dict>
       <dict>
@@ -602,7 +602,7 @@
         <key>settings</key>
         <dict>
           <key>foreground</key>
-          <string>#<%- base["B2"]["hex"] %></string>
+          <string>#936c7a</string>
           </dict>
         </dict>
       <dict>
@@ -613,7 +613,7 @@
         <key>settings</key>
         <dict>
           <key>foreground</key>
-          <string>#<%- base["D2"]["hex"] %></string>
+          <string>#b88914</string>
           </dict>
         </dict>
       <dict>
@@ -624,7 +624,7 @@
         <key>settings</key>
         <dict>
           <key>foreground</key>
-          <string>#<%- base["D2"]["hex"] %></string>
+          <string>#b88914</string>
           </dict>
         </dict>
       <dict>
@@ -635,7 +635,7 @@
         <key>settings</key>
         <dict>
           <key>foreground</key>
-          <string>#<%- base["D2"]["hex"] %></string>
+          <string>#b88914</string>
           </dict>
         </dict>
       <dict>
@@ -646,7 +646,7 @@
         <key>settings</key>
         <dict>
           <key>foreground</key>
-          <string>#<%- base["B1"]["hex"] %></string>
+          <string>#875e6d</string>
           </dict>
         </dict>
       <dict>
@@ -657,9 +657,9 @@
         <key>settings</key>
         <dict>
           <key>background</key>
-          <string>#<%- base["D0"]["hex"] %></string>
+          <string>#996e00</string>
           <key>foreground</key>
-          <string>#<%- base["D7"]["hex"] %></string>
+          <string>#ffcc4d</string>
           </dict>
         </dict>
       <dict>
@@ -670,9 +670,9 @@
         <key>settings</key>
         <dict>
           <key>background</key>
-          <string>#<%- base["D0"]["hex"] %></string>
+          <string>#996e00</string>
           <key>foreground</key>
-          <string>#<%- base["D7"]["hex"] %></string>
+          <string>#ffcc4d</string>
           </dict>
         </dict>
       <dict>
@@ -683,9 +683,9 @@
         <key>settings</key>
         <dict>
           <key>background</key>
-          <string>#<%- base["D0"]["hex"] %></string>
+          <string>#996e00</string>
           <key>foreground</key>
-          <string>#<%- base["D7"]["hex"] %></string>
+          <string>#ffcc4d</string>
           </dict>
         </dict>
       <dict>
@@ -696,9 +696,9 @@
         <key>settings</key>
         <dict>
           <key>background</key>
-          <string>#<%- base["D0"]["hex"] %></string>
+          <string>#996e00</string>
           <key>foreground</key>
-          <string>#<%- base["D7"]["hex"] %></string>
+          <string>#ffcc4d</string>
           </dict>
         </dict>
       <dict>
@@ -709,11 +709,12 @@
         <key>settings</key>
         <dict>
           <key>foreground</key>
-          <string>#<%- base["C7"]["hex"] %></string>
+          <string>#fbfaf9</string>
           <key>background</key>
-          <string>#<%- base["B5"]["hex"] %></string>
+          <string>#e28dab</string>
           </dict>
         </dict>
       </array>
     </dict>
   </plist>
+
